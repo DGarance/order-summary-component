@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:
-  [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profilcard-component-htmlcss-oEAL7mhgRi)
+  [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/order-summary-component-htmlcss-mobile-first-2PNbfHXcQP)
 - Live Site URL: [Github Live](https://dgarance.github.io/order-summary-component/)
 
 ## My process
